@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Thauany Araujo from Brazil. I love code!!! I love learning new things in programming!
+..
+..
+
 <!--
 **Thau26/Thau26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
