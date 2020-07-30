@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I'm Thauany Araujo from Brazil. I love code!!! I love learning new things in programming!
+I'm Thauany Araujo from Brazil. I love code!!! I love learning new things in programming! 
+![octocat](https://uploaddeimagens.com.br/imagens/cuNmI6k)
 ..
 ..
 
