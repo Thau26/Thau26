@@ -1,9 +1,14 @@
 ### Hi there 👋
 
-I'm Thauany Araujo from Brazil. I love code!!! I love learning new things in programming! 
-![octocat](https://uploaddeimagens.com.br/imagens/cuNmI6k)
-..
-..
+I'm Thauany Araujo from Brazil. 
+I love code!! I love be dev! 
+I love learning new things in programming! 
+
+I'm currently learning Node.js| React.js | React Native
+
+
+
+
 
 <!--
 **Thau26/Thau26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +16,7 @@ I'm Thauany Araujo from Brazil. I love code!!! I love learning new things in pro
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m g ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
